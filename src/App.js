@@ -70,7 +70,7 @@ function App() {
                   key={tarea.id}
                   id={tarea.id}
                   tarea={tarea}
-                  onActualziarTarea={onActualizarTarea}
+                  onActualizarTarea={onActualizarTarea}
                   onBorrarTarea={onBorrarTarea}
                 />
               ))
