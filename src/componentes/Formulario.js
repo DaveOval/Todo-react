@@ -5,16 +5,17 @@ export function Formulario(props) {
     return (
         <form onSubmit={handleSubmit}>
             <input
+                className="input-group"
                 type="text"
-                placeholder="Add"
+                placeholder="Type here!"
                 onChange={handleChange}
                 value={tarea}
             />
             
             <input
                 type="submit"
-                className="btn"
-                value="ADD"
+                className="add"
+                value="Add"
                 onClick={handleSubmit}
             />
         </form>

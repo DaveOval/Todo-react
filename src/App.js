@@ -61,7 +61,7 @@ function App() {
 
         </div>
         <div className='contenedorTareas'>
-          <h2>Lista tareas</h2>
+          <h2 className='list'>task list</h2>
 
           <div className='contenedorInfoTareas'>
             {
