@@ -12,7 +12,7 @@ function App() {
     e.preventDefault()
 
     if (tarea === '') {
-      alert("agrega algo pendejo")
+      alert("type a to do")
       return
     }
 
