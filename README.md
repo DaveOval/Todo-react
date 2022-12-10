@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# aplicacion de todo con react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ver despliegue en  [Github pages](https://daveoval.github.io/todo-react/).
 
